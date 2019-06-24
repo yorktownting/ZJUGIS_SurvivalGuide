@@ -4,5 +4,12 @@
 **欢迎更新！**  
 ---
 ## 目录
-大一下：地理信息科学导论
-大二下：[数据结构基础](https://github.com/yorktownting/ZJUGIS_SurvivalGuide/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%9F%BA%E7%A1%80)
+大一下：地理信息科学导论  
+大一下：自然地理学  
+大一小学期：GIS平台实践  
+大二上：地图学  
+大二上：地理定量分析  
+大二下：[数据结构基础](https://github.com/yorktownting/ZJUGIS_SurvivalGuide/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%9F%BA%E7%A1%80)  
+大二下：GIS程序设计  
+大二下：地理空间数据库  
+大二下：测量学  
