@@ -3,7 +3,8 @@
 不知道对以后的学弟学妹们能不能有所帮助  
 有些课程名称可能会改？  
 **欢迎更新！**  
-**所有的markdown文件建议使用Typora打开——使用了扩展语法**
+**所有的markdown文件建议使用Typora打开——使用了扩展语法**  
+> 另一个可以使参考的是求是潮的课程共享计划:[ICICLES](https://github.com/QSCTech/zju-icicles)  
   
 ## 目录
 - 大一下：[地理信息系统](https://github.com/yorktownting/ZJUGIS_SurvivalGuide/tree/master/%E5%9C%B0%E7%90%86%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F)  
