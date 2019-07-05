@@ -18,4 +18,4 @@
 - 大二下：[数据结构基础](https://github.com/yorktownting/ZJUGIS_SurvivalGuide/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%9F%BA%E7%A1%80)  
 - 大二下：GIS程序设计  
 - 大二下：[地理空间数据库](https://github.com/yorktownting/ZJUGIS_SurvivalGuide/tree/master/%E5%9C%B0%E7%90%86%E7%A9%BA%E9%97%B4%E6%95%B0%E6%8D%AE%E5%BA%93)  
-- 大二下：测量学  
+- 大二下：[测量学](https://github.com/yorktownting/ZJUGIS_SurvivalGuide/tree/master/%E6%B5%8B%E9%87%8F%E5%AD%A6)  
