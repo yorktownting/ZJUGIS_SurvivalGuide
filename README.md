@@ -13,7 +13,7 @@
 - 大一下：[自然地理学](https://github.com/yorktownting/ZJUGIS_SurvivalGuide/tree/master/%E8%87%AA%E7%84%B6%E5%9C%B0%E7%90%86%E5%AD%A6)  
 - 大一下：普通地质学（选修，但是很推荐——如果还是沈老大上的话）  
 - 小学期：[GIS平台应用与实践](https://github.com/yorktownting/ZJUGIS_SurvivalGuide/tree/master/GIS%E5%B9%B3%E5%8F%B0%E5%BA%94%E7%94%A8%E4%B8%8E%E5%AE%9E%E8%B7%B5)  
-- 大二上：地图学  
+- 大二上：[地图学](https://github.com/yorktownting/ZJUGIS_SurvivalGuide/blob/master/%E5%9C%B0%E5%9B%BE%E5%AD%A6/README.md)  
 - 大二上：地理定量分析  
 - 大二下：[数据结构基础](https://github.com/yorktownting/ZJUGIS_SurvivalGuide/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%9F%BA%E7%A1%80)  
 - 大二下：GIS程序设计  
