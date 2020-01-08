@@ -19,4 +19,5 @@
 - 大二下：[GIS程序设计](https://github.com/yorktownting/ZJUGIS_SurvivalGuide/tree/master/GIS%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1)  
 - 大二下：[地理空间数据库](https://github.com/yorktownting/ZJUGIS_SurvivalGuide/tree/master/%E5%9C%B0%E7%90%86%E7%A9%BA%E9%97%B4%E6%95%B0%E6%8D%AE%E5%BA%93)  
 - 大二下：[测量学](https://github.com/yorktownting/ZJUGIS_SurvivalGuide/tree/master/%E6%B5%8B%E9%87%8F%E5%AD%A6)  
+- 大三上：[GPS原理及应用](https://github.com/yorktownting/ZJUGIS_SurvivalGuide/tree/master/GPS%E5%8E%9F%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8)
 
