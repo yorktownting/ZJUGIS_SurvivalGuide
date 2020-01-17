@@ -5,7 +5,7 @@
 有些课程名称可能会改，但就这么几个老师，授课内容应该不会大改  
 **欢迎更新！**  
 **所有的markdown文件建议使用Typora打开——使用了扩展语法**    
-有疑问请联系：3170103194@zju.edu.cn  
+有疑问请联系：yorktown@zju.edu.cn  
 > 另一个可以用来参考的是求是潮的课程共享计划：[ICICLES](https://github.com/QSCTech/zju-icicles)  
 > 其他课（包括大类课、外专业的课什么的）的一些学习经验、回忆卷可以去CC98版搜：[CC98](https://www.cc98.org)  
   
