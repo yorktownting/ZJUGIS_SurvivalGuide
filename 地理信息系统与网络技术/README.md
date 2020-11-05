@@ -2,7 +2,7 @@
 ## 78120180 | 陆丽珍  
 ### 前半个学期讲计网（草草过一遍）
 - 课上讲的内容显然是不够的，现在是大四，我正在重新自学计网的内容，使用的是斯坦福大学的CS144，可以参考GitHub上的这个项目：
-    - [Stanford-CS144-Lecture](https://github.com/huangrt01/CS-Notes/blob/master/Notes/Output/Computer-Networking-Lecture-CS144-Stanford.md) ■■■■□□□□□□
+    - [Stanford-CS144-Lecture](https://github.com/huangrt01/CS-Notes/blob/master/Notes/Output/Computer-Networking-Lecture-CS144-Stanford.md)
     - [Stanford-CS144-Lab](https://github.com/huangrt01/TCP-Lab)
 ### 后半个学期实验
 - 最后有一个大作业会在考试周，内容是地理空间数据库+前端，可以提早做
