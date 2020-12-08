@@ -64,14 +64,13 @@
 - **春分点**：太阳在黄道上从天球南半球向北半球运行时，黄道与天球赤道的交点 $\gamma$ 
 - **春分点和天球赤道面是建立参考系的重要基准点和基准面**
 
-<img src="C:\Users\Yorktown\AppData\Roaming\Typora\typora-user-images\image-20191229102020026.png" alt="image-20191229102020026" style="zoom:67%;" />
 
 ### 天球坐标系
 
 - **天球空间直角坐标系**：原点位于地球质心 $M$，$z$ 轴指向天球北极 $P_n$，$x$ 轴指向春分点 $\gamma$，$y$ 轴垂直于 $xMz$ 平面，与 $x$ 轴和 $z$ 轴构成右手坐标系统
 - **天球球面坐标系**：球面中心与地球质心 $M$ 重合，赤经 $\alpha$ 为过春分点的天球子午面与过天体 $s$ 的天球子午面之间的夹角，赤纬 $\delta$ 为原点 $M$ 至天体 $s$ 的连线与天球赤道面之间的夹角，向径 $r$ 为原点 $M$ 至天体 $s$ 的距离。
 
-<img src="E:\ZJU\GPS\Note\pictures\2-1.jpg" style="zoom:67%;" />
+![](https://pic.downk.cc/item/5fcee3aa3ffa7d37b377cf18.png)
 
 ## 岁差
 
@@ -150,7 +149,7 @@
     	IAT-GPST=19(s)
   $$
 
-<img src="C:\Users\Yorktown\AppData\Roaming\Typora\typora-user-images\image-20191229101940363.png" alt="image-20191229101940363" style="zoom:67%;" />
+![](https://pic.downk.cc/item/5fcee4193ffa7d37b3783977.png)
 
 ### 时间性的重要意义
 - GPS卫星位置不断变化：误差1cm=时间精度2.6*10^(-6)s
@@ -195,8 +194,7 @@
 - $\omega_s$：近地点角距，轨道椭圆定向参数
 - $f_s$：卫星的真近点角（轨道平面上卫星与近地点之间的地心角距），是一个以时间为参数的函数，确定了卫星在轨道上的瞬时位置
 
-<img src="C:\Users\Yorktown\AppData\Roaming\Typora\typora-user-images\image-20191231092227779.png" alt="image-20191231092227779" style="zoom:80%;" />
-
+![](https://pic.downk.cc/item/5fcee4303ffa7d37b37852c6.png)
 
 
 ## 卫星摄动力
@@ -290,7 +288,7 @@
 - 子帧4、5含有25页，以和25颗GPS卫星的星历对应。子帧1、2、3与子帧4、5的每一页构成一帧电文。故每25帧导航电文组成一个主帧
 - 在每一帧电文中，1、2、3子帧的内容每30s重复一次，每小时更新一次；子帧4、5的内容在给卫星注入新的导航数据后更新
 
-<img src="C:\Users\Yorktown\AppData\Roaming\Typora\typora-user-images\image-20200105091331220.png" alt="image-20200105091331220" style="zoom:67%;" />
+![](https://pic.downk.cc/item/5fcee4693ffa7d37b37882c4.png)
 
 ### 导航电文的内容
 - **遥测码**：位于各子帧的开头，用于表明卫星注入数据的状态
@@ -299,7 +297,7 @@
 - **第二数据块**：包括2、3两个子帧，内容为GPS卫星星历（开普勒轨道系数、轨道摄动9参数、时间参数）
 - **第三数据块**：包括4、5两个子帧，内容为所有GPS卫星的历书数据
 
-<img src="C:\Users\Yorktown\AppData\Roaming\Typora\typora-user-images\image-20200105092120217.png" alt="image-20200105092120217" style="zoom:55%;" />
+![](https://pic.downk.cc/item/5fcee4783ffa7d37b3788b8b.png)
 
 ## 伪距测量
 - 码相关法伪距测量：通过调整自相关函数 $R(t)$ 的值，来测定测距码由卫星到达测站的传播时间实现
@@ -307,7 +305,7 @@
 	- $\Delta t-\tau=0$，$R(t)=1$
 	- $\Delta t-\tau>t_u$，$R(t)=1/T$，其中 $t_u$ 代表一个码元
 	
-	<img src="C:\Users\Yorktown\AppData\Roaming\Typora\typora-user-images\image-20200105092225930.png" alt="image-20200105092225930" style="zoom:50%;" />
+	![](https://pic.downk.cc/item/5fcee4883ffa7d37b378972a.png)
 
 ## 载波相位测量
 - 使用专门的高频信号——**载波**调制C/A、P、D码发送：
@@ -331,8 +329,7 @@
     
 - 在卫星信号中断时，会丢失 $In(\phi)$ 中的一部分整周数，称为**整周跳变/周跳**。注意，$F(\phi)$ 是瞬时值，不受周跳影响
 
-<img src="C:\Users\Yorktown\AppData\Roaming\Typora\typora-user-images\image-20191231092344622.png" alt="image-20191231092344622" style="zoom:80%;" />
-
+![](https://pic.downk.cc/item/5fcee4de3ffa7d37b378d413.png)
 
 ## SA政策
 - 标准定位业务SPS，精密定位业务PPS
@@ -540,7 +537,7 @@
 
 #### 星形网
 
-<img src="C:\Users\Yorktown\AppData\Roaming\Typora\typora-user-images\image-20191231134548638.png" alt="image-20191231134548638" style="zoom:67%;" />
+![](https://pic.downk.cc/item/5fcee4fa3ffa7d37b378e464.png)
 
 - 几何图形简单，直接观测边间不                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     构成任何图形
 - 作业中只需要两台GPS接收机
@@ -554,14 +551,14 @@
 
 #### 点连式
 
-<img src="C:\Users\Yorktown\AppData\Roaming\Typora\typora-user-images\image-20191231135052321.png" alt="image-20191231135052321" style="zoom:67%;" />
+![](https://pic.downk.cc/item/5fcee5253ffa7d37b3790150.png)
 
 - 相邻同步图形之间之间仅由一个公共点连接
 - 构成的图形几何强度很弱，没有或极少有非同步图形闭合条件，一般作业中不单独采用
 
 #### 边连式
 
-<img src="C:\Users\Yorktown\AppData\Roaming\Typora\typora-user-images\image-20191231135626315.png" alt="image-20191231135626315" style="zoom:67%;" />
+![](https://pic.downk.cc/item/5fcee52f3ffa7d37b37907b6.png)
 
 - 同步图形之间由一条公共基线连接
 - 网的几何强度较高，有较多的复测边和非同步图形闭合条件
@@ -579,7 +576,7 @@
 
 #### 三角锁/多边形连接
 
-<img src="C:\Users\Yorktown\AppData\Roaming\Typora\typora-user-images\image-20191231141845505.png" alt="image-20191231141845505" style="zoom:67%;" />
+![](https://pic.downk.cc/item/5fcee53f3ffa7d37b37910f2.png)
 
 - 用点连式或边连式组成连续发展的三角锁同步图形
 - 适用于狭长地区的GPS布网，如铁路、公路、管线工程勘测等
